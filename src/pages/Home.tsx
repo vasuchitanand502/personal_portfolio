@@ -35,7 +35,7 @@ const HomePage = () => {
               </FadeIn>
               <GlowLine delay={0.7} className="w-20 mb-6" />
               <FadeIn delay={0.7}>
-                <p className="text-white/80 text-base md:text-lg leading-relaxed max-w-md font-body">Practicing before the High Court and subordinate courts with commitment to integrity and diligence.</p>
+                <p className="text-white/80 text-base md:text-lg leading-relaxed max-w-md font-body">Engaged in legal practice before the Hon’ble Supreme Court, High Courts, Tribunals, and subordinate courts, with a strong commitment to integrity, diligence, and the highest standards of the legal profession.</p>
               </FadeIn>
               <FadeIn delay={0.9}>
                 <div className="mt-8 flex flex-col sm:flex-row gap-3 sm:gap-4 items-center sm:items-start">
